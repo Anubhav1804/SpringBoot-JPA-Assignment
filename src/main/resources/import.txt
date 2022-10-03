@@ -1,0 +1,11 @@
+--INSERT INTO Learner(Id, FirstName, LastName, Email, Password, CourseId) VALUES(1, "Anubhav", "Srivastava", "anubhav@gmail.com", "password1", 4455);
+--INSERT INTO Learner(Id, FirstName, LastName, Email, Password, CourseId) VALUES(2, "Gourav","Kumar","gourav@gmail.com","password4",6600);
+--INSERT INTO Learner(Id, FirstName, LastName, Email, Password, CourseId) VALUES(3, "Aditya","Choudhary","aditya@gmail.com","password3",5291);
+--INSERT INTO Learner(Id, FirstName, LastName, Email, Password, CourseId) VALUES(4, "Harsh","Pareek","harsh@gmail.com","password5",1835);
+--INSERT INTO Learner(Id, FirstName, LastName, Email, Password, CourseId) VALUES(5, "Adesh","Srivastava","adesh@gmail.com","password2",null);
+
+--INSERT INTO Learner VALUES( "Anubhav", "Srivastava", "anubhav@gmail.com", "password1",	4455);
+--INSERT INTO Learner VALUES( 'Gourav', 'Kumar', 'gourav@gmail.com', 'password4', 6600);
+--INSERT INTO Learner VALUES( 'Aditya', 'Choudhary', 'aditya@gmail.com', 'password3', 5291);
+--INSERT INTO Learner VALUES( 'Harsh', 'Pareek', 'harsh@gmail.com', 'password5',	1835);
+--INSERT INTO Learner VALUES( 'Adesh', 'Srivastava', 'adesh@gmail.com', 'password2',	2734);
